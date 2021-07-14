@@ -1,0 +1,15 @@
+/Users/jinjoolee/Projects/List/List/bin/Debug/net5.0/Collection.deps.json
+/Users/jinjoolee/Projects/List/List/bin/Debug/net5.0/Collection.runtimeconfig.json
+/Users/jinjoolee/Projects/List/List/bin/Debug/net5.0/Collection.runtimeconfig.dev.json
+/Users/jinjoolee/Projects/List/List/bin/Debug/net5.0/Collection.dll
+/Users/jinjoolee/Projects/List/List/bin/Debug/net5.0/ref/Collection.dll
+/Users/jinjoolee/Projects/List/List/bin/Debug/net5.0/Collection.pdb
+/Users/jinjoolee/Projects/List/List/obj/Debug/net5.0/Collection.csproj.AssemblyReference.cache
+/Users/jinjoolee/Projects/List/List/obj/Debug/net5.0/Collection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jinjoolee/Projects/List/List/obj/Debug/net5.0/Collection.AssemblyInfoInputs.cache
+/Users/jinjoolee/Projects/List/List/obj/Debug/net5.0/Collection.AssemblyInfo.cs
+/Users/jinjoolee/Projects/List/List/obj/Debug/net5.0/Collection.csproj.CoreCompileInputs.cache
+/Users/jinjoolee/Projects/List/List/obj/Debug/net5.0/Collection.dll
+/Users/jinjoolee/Projects/List/List/obj/Debug/net5.0/ref/Collection.dll
+/Users/jinjoolee/Projects/List/List/obj/Debug/net5.0/Collection.pdb
+/Users/jinjoolee/Projects/List/List/obj/Debug/net5.0/Collection.genruntimeconfig.cache
